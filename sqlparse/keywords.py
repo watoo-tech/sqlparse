@@ -147,7 +147,7 @@ KEYWORDS = {
     'BREADTH': tokens.Keyword,
 
     # 'C': tokens.Keyword,  # most likely this is an alias
-    'CACHE': tokens.Keyword,
+    #'CACHE': tokens.Keyword,
     'CALL': tokens.Keyword,
     'CALLED': tokens.Keyword,
     'CARDINALITY': tokens.Keyword,
