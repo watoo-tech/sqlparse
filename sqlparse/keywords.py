@@ -621,7 +621,7 @@ KEYWORDS = {
     'VALUES': tokens.Keyword,
     'VARIABLE': tokens.Keyword,
     'VERBOSE': tokens.Keyword,
-    'VERSION': tokens.Keyword,
+    #'VERSION': tokens.Keyword,
     'VIEW': tokens.Keyword,
     'VOLATILE': tokens.Keyword,
 
